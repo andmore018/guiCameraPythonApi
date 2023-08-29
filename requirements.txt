@@ -1,0 +1,6 @@
+request[security]
+flask
+marshmallow
+gunicorn==19.4.5
+sqlalchemy
+psycopg2-binary
